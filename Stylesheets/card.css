@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    background-color: black;
+}
+
+.A {
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.B {
+    color: white;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: bolder;
+    font-stretch: extra-condensed;
+}
+
+.C {
+    color: white;
+    font-family: Geneva;
+    font-size: 10px;
+}
+
+#Christmas {
+    background-color: red;
+    padding-top: 130px;
+    padding-left: 30px;
+    padding-right: 50px;
+    align-items: center;
+    width: 12%;
+    letter-spacing: -0.5px;
+}
